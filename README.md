@@ -1,4 +1,3 @@
-github webhooks testing
-poll scm testing
+github webhook testing
 
 
