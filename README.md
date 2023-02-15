@@ -1,4 +1,4 @@
-poll scm
+webhooks
 
 
 for containrigation
